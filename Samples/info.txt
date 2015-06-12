@@ -4,6 +4,7 @@
 ---------------------------------------------------------------------------------------------------
 DEMO 1 - SignalR : Simple chat
     http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr
+    (MVC 5)  http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr-and-mvc
 ---------------------------------------------------------------------------------------------------
 DEMO 2 - SignalR : Server broadcasting
     http://www.asp.net/signalr/overview/getting-started/tutorial-server-broadcast-with-signalr
